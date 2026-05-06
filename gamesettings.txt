@@ -1,0 +1,49 @@
+{
+    "isHalloween": false,
+    "isChristmas": false,
+    "isAprilFools": false,
+    "isEaster": false,
+    "eventAreas": "chunkchristmasisles",
+    "eventAreaWeather": "snow",
+    
+    "zarudeRoaming": false,
+    
+	"2xShinies": false,
+    "2xExperience": false,
+    
+    "enableChristmasIsles": false,
+    "enableEasterValley": false,
+	"enableShadowVoid": false,
+	"liveEvent": "1;false;false", 
+
+    "enabledGamemodes": "adventure;randomizer;nuzlocke",
+    "canDevTest": "2599716912;168250180;1761218392",
+	"hasSpawner": "1761218392;2654165024;168250180;2599716912;1425300289;3093175937;173973223;654491944;2319709000",
+    "staffGroups": "13108566;1130445",
+    "playerGroups": "12884840",
+    "allPasses": "",
+    "showNotification": "GDS Down;false",
+ 	"allowGmaxFactorWild": false,
+	"allowGmaxFactorGift": false,
+    "enableShadowPokes": false,
+    "inBattleWeatherByOverworld": false,
+    "noWeatherContext": "battle;trade;event",
+    "derankMimikyuAbuseColo": false,
+    "tradeBanned": "",
+    "rankedBanned": "2895568819",
+    "RTDBanned": "",
+    "maxSaveFiles": 2,
+    "enableRaidDens": true,
+
+    "isDev": "3093175937;2599716912",
+    "isYT": "291769547;436437008;2319709000;337628104;1513221471",
+	"isTrusted": "",
+    "isStaff": "55905986;654491944",
+
+    "badges": "", 
+    "newShinyEffect": false,
+    
+	"devTestAllFlags": false,
+    "devTestWeather": false
+	
+}

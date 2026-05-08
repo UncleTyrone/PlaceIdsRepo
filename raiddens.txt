@@ -14,7 +14,7 @@
 "6Star":[["Weedle", null, 1]]
 },
 
-"1":{"Name":"Gale Forest Center",
+"1":{"Name":"Gale Forest",
 "1Star":[["Natu", null, 5],["Hoothoot", null, 2],["Pichu", null, 8],["Seedot", null, 4]],
 "2Star":[["Pikachu", null, 15],["Bellsprout", null, 10],["Dustox", null, 18],["Xatu", null, 4]],
 "3Star":[["Nuzleaf", null, 5],["Parasect", null, 10],["Weepinbell", null, 8]],
